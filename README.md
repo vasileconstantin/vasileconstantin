@@ -8,6 +8,6 @@
 - 💬 Ask me about **MySQL** | **PostgreSQL** | **Python** | **pandas**| **NumPy** | **Descriptive Statistics** | **Tableau**
 - 📫 How to reach me: email
 - 😄 Whenever I can, I help others with my preferred language, which is **SQL**
-- ⚡ Fun fact: youtube video
+- ⚡ Fun fact: shorturl.at/gouJZ
 - 
 
